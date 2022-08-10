@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    align-items: center;
+  
+
+}
+
+#Netflix{
+    color:  red;
+}
+
+.btn-primary{
+    color:white;
+background-color: red;
+}
+
+#card-deck{
+  
+    display: flex;
+    border-color: white;
+    
+}
